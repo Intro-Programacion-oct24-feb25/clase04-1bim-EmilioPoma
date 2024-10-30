@@ -20,6 +20,7 @@ public class Ejemplo01 {
         nombreEstudiante = "René Elizalde";
         System.out.println(nombreEstudiante);
         System.out.println("René Elizalde");
+        //no se pued volver a declarar o cambiar una variable
         nombreEstudiante = "Felipe Elizalde";
         System.out.println(nombreEstudiante);
     }
